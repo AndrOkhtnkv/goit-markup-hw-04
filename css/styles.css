@@ -93,6 +93,10 @@ header .logo {
 
 
 .section_one {
+    background-image: url(../images/Images3/people-office\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     background-color:#2e2f42;
 }
 
