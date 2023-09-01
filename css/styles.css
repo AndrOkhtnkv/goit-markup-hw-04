@@ -81,6 +81,9 @@ header .logo {
 .nav-item:hover, .nav-item:focus {
     color: #404bbf;
 }
+.nav-item::after {
+    content: "";
+}
 .contacts {
     font-style: normal;
 
