@@ -151,7 +151,15 @@ header .logo {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.sctn_two_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 .section_three {
     background-color: #F4F4FD;
 }
