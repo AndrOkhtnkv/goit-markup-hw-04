@@ -113,6 +113,7 @@ header .logo {
     background-position: center center;
     background-size: cover;
     background-color:#2e2f42;
+    max-width: 1440px;
 }
 
 .section_one_h_one {
@@ -132,6 +133,7 @@ header .logo {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    transition:250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 }
 .section_one_btn:hover, .section_one_btn:focus {
