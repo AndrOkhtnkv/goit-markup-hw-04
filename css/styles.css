@@ -163,7 +163,7 @@ header .logo {
 .section_three {
     background-color: #F4F4FD;
 }
-.sctn_three_icons {
+.sctn_three_icons_ul {
     display: flex; 
     justify-content: center;
     gap: 24px;
