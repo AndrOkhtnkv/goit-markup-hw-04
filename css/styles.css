@@ -182,6 +182,9 @@ header .logo {
     justify-content: center;
     
 }
+.sctn_three_icons_svg {
+     fill:  #f4f4fd;
+}
 .sctn_three_icons_a:hover,
 .sctn_three_icons_a:focus {
     background-color: #404bbf;
