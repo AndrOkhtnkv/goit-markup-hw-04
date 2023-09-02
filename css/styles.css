@@ -108,7 +108,7 @@ header .logo {
 
 
 .section_one {
-    background-image: url(../images/Images3/people-office\ 1.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Images3/people-office_1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
