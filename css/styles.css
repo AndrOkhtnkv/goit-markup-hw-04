@@ -225,6 +225,10 @@ header .logo {
     text-transform: capitalize;
     color:#2e2f42;
 }
+.overlay {
+    position: relative;
+    overflow: hidden;
+}
 .section_four_list-item:hover p {
     transform: translateY(0%);
 }
