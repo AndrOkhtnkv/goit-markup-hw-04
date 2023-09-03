@@ -225,7 +225,7 @@ header .logo {
     text-transform: capitalize;
     color:#2e2f42;
 }
-.section_four_list-item:hover .overlay {
+.section_four_list-item:hover p {
     transform: translateY(0%);
 }
 .section_four_list-item {
