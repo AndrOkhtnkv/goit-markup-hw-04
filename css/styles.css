@@ -456,3 +456,8 @@ header .logo {
 .footer .sctn_three_icons_ul {
     gap: 16px;
 }
+
+.footer .sctn_three_icons_a:hover,
+.footer .sctn_three_icons_a:focus {
+    background-color: #31d0aa;
+}
