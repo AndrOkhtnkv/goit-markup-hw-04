@@ -428,6 +428,10 @@ header .logo {
 .footer-paragraph {
     max-width: 264px;
 }
+
+.footer .container {
+    display: flex;
+    align-items: baseline;
+}
 .footer_icons {
-    align-items: baseline
 }
