@@ -243,9 +243,11 @@ header .logo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
+}
+.section_four_list-item_paragraph:hover {
     transform:translateY(0%);
 }
-
 .footer {
     background-color: #2e2f42;
     
