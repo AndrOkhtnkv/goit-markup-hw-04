@@ -453,6 +453,6 @@ header .logo {
     display: flex; 
     gap: 16px;
 }
-.footer .sctn_three_icons_li {
+.footer .sctn_three_icons_ul {
     gap: 16px;
 }
